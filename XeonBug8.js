@@ -1,11 +1,11 @@
-//base by xhclinton (Toxic Bot Inc.)
+//base by Dyby-Tech (Megalodon Bot Inc.)
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @xhclintonjaan11
+//YouTube: @PSYCHO_FF434
 //Instagram: private 
-//Telegram: https://t.me/xhclintonjaaN1
+//Telegram: https://t.me/+cG-bbQj8adpjYzIx
 //GitHub: @private
-//WhatsApp: +254735342808
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@xhclintonjaan11
+//WhatsApp: 
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@PSYCHO_FF434
 
 const { default: makeWASocket, fetchLatestBaileysVersion, downloadContentFromMessage, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -245,7 +245,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `🦄드림 가이 𝐓𝐨𝐱𝐢𝐜`
+title: `🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡`
 }
 }
 }
@@ -277,7 +277,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜`+"ꦾ".repeat(50000),
+    "caption": `🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡`+"ꦾ".repeat(50000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -293,13 +293,13 @@ async function xeonkillpic(target, kuwoted) {
       header: {
         title: "🦄드림 가이 𝐓𝐨𝐱𝐢𝐜",
         hasMediaAttachment: true,
-        ...(await prepareWAMessageMedia({ image: { url: "https://i.ibb.co/Wppj16p/cheemspic.jpg" } }, { upload: XeonBotInc.waUploadToServer }))
+        ...(await prepareWAMessageMedia({ image: { url: "https://files.catbox.moe/emzgfh.jpg" } }, { upload: XeonBotInc.waUploadToServer }))
       },
       body: {
         text: ""
       },
       footer: {
-        text: "›          #🦄드림 가이 𝐓𝐨𝐱𝐢𝐜"
+        text: "›          #🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡"
       },
       nativeFlowMessage: {
         messageParamsJson: " ".repeat(1000000)
@@ -317,8 +317,8 @@ async function listxeonfck(target, kuwoted) {
  var etc = generateWAMessageFromContent(target, proto.Message.fromObject({
   'listMessage': {
     'title': "🦄드림 가이 𝐓𝐨𝐱𝐢𝐜"+" ".repeat(920000),
-        'footerText': `🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜`,
-        'description': `🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜`,
+        'footerText': `🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡`,
+        'description': `🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡`,
         'buttonText': null,
         'listType': 2,
         'productListInfo': {
@@ -726,7 +726,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`𝟐𝟒/𝟕 𝐎𝐧𝐥𝐢𝐧𝐞 𝐁𝐨𝐭 𝐁𝐲 ${ownername} ☣️🦄1`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`𝟐𝟒/𝟕 𝐎𝐧𝐥𝐢𝐧𝐞 𝐁𝐨𝐭 𝐁𝐲 ${ownername} 🦈🦄1`).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
@@ -1291,7 +1291,7 @@ senddocu(buffer)
                 if (!isBotAdmins && !isCreator && !isPremium) return replygcxeon(mess.botAdmin)
                 let teks = `*👥 Tag All*
  
-                 🗞️ *Message : ${q ? q : 'blank'}*\n\n`
+                 🗞️ *Message : ${q ? q : '𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡🦈'}*\n\n`
                 for (let mem of participants) {
                     teks += `• @${mem.id.split('@')[0]}\n`
                 }
@@ -1458,7 +1458,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = `Bot Has Been Running For ${runtime(process.uptime())} ☣️`
+                let runtimetext = `Bot Has Been Running For ${runtime(process.uptime())} 🦈`
                 XeonBotInc.sendMessage(m.chat, {
                     text: runtimetext,
                     contextInfo: {
@@ -1480,13 +1480,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `Helllo☣️`,
+                    text: `Helllo🦈`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `𝐒𝐂𝐑𝐈𝐏?? 𝐎𝐅 ${botname} is on https://whatsapp.com/channel/0029VagJlnG6xCSU2tS1Vz19`,
-                            thumbnailUrl: 'https://ibb.co/rQCVMFm.jpg',
+                            body: `𝐒𝐂𝐑𝐈𝐏?? 𝐎𝐅 ${botname} is on https://whatsapp.com/channel/0029VaiOvsV1iUxQRXWnv40R`,
+                            thumbnailUrl: 'https://files.catbox.moe/emzgfh.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2507,11 +2507,11 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 					const crasoh = await XeonBotInc.relayMessage(jid,
 						{
 							extendedTextMessage: {
-								text: '🦄드림 가이 𝐓𝐨𝐱𝐢𝐜',
+								text: '🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡',
 								matchedText: 'LEGALLY WRONG, ETHICALLY RIGHT',
 								canonicalUrl: 'https://example.com',
-								description: '🦄드림 가이 𝐓𝐨𝐱𝐢𝐜  🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜',
-								title: '🦄드림 가이 𝐓𝐨𝐱𝐢𝐜',
+								description: '🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡  🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡',
+								title: '🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡',
 								textArgb: 0xff000000,
 								backgroundArgb: 0xffffffff,
 								font: 1,
@@ -2583,7 +2583,7 @@ var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net")
 											subtitle: ' ',
 										},
 										body: {
-											text: '🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝐓𝐨𝐱𝐢𝐜',
+											text: '🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡',
 										},
 										footer: {
 											text: 'xp',
@@ -2710,9 +2710,9 @@ async function xeonFreeze(jid){
 	  for (let i = 0; i < 50; i++) {
 await XeonBotInc.sendMessage(jid, {
     'document': XeonDoc,
-    'fileName': "🦄드림 가이 𝐓𝐨𝐱𝐢𝐜" + xeontext1,
+    'fileName': "🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡" + xeontext1,
     'mimetype': "application/zip",
-    'caption': "🦄드림 가이 𝐓𝐨𝐱𝐢𝐜" + xeontext1,
+    'caption': "🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡" + xeontext1,
     'pageCount': 0x3b9aca00,
     'contactVcard': true
 });
@@ -2725,7 +2725,7 @@ await xeonFreeze(m.chat);
 	case 'xkillgc': case 'xblankscrn': case 'xwebgc': {
 		if (!isPremium) return replygcxeon(mess.prem)
 		const xeonimage = {
-    title: "🦄드림 가이 𝐓𝐨𝐱𝐢𝐜; ",
+    title: "🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡; ",
     hasMediaAttachment: true,
     imageMessage: thumb.imageMessage
 };
@@ -2744,7 +2744,7 @@ XeonBotInc.relayMessage(m.chat, {
                     'buttons': [{
                         'name': "galaxy_message",
                         'buttonParamsJson': JSON.stringify({
-                            'header': "🦄드림 가이 𝐓𝐨𝐱𝐢𝐜; ",
+                            'header': "🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡; ",
                             'body': "xxx",
                             'flow_action': "navigate",
                             'flow_action_payload': {
@@ -2776,7 +2776,7 @@ XeonBotInc.relayMessage(m.chat, {
                     'forwardedNewsletterMessageInfo': {
                         'newsletterJid': "120363222395675670@newsletter",
                         'serverMessageId': 0x1,
-                        'newsletterName': "🦄드림 가이 𝐓𝐨𝐱𝐢𝐜"
+                        'newsletterName': "🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡"
                     }
                 }
             }
@@ -2804,8 +2804,8 @@ title: `𝐓𝐨𝐱𝐢𝐜's ur father`
     {
       document: { url: "./settings.js" },
       mimetype: `image/null`,
-      fileName: `🦄드림 가이 𝐓𝐨𝐱𝐢𝐜${xeontext11}`,
-      caption: `🦄드림 가이 𝐓𝐨𝐱𝐢𝐜 ${xeontext11}`,
+      fileName: `🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡${xeontext11}`,
+      caption: `🦄드림 가이 𝗠𝗘𝗚𝗔𝗟𝗢𝗗𝗢𝗡 ${xeontext11}`,
     },
     { quoted: { ...subscribe_dgxeon, key: { ...subscribe_dgxeon.key, participant } } }  // Includes the quoted participant
   );
@@ -2885,7 +2885,7 @@ break
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `𝐇𝐞𝐥𝐥𝐨  ${pushname}
-╰┈➤ ${xeonytimewisher} ☣️
+╰┈➤ ${xeonytimewisher} 🦈
 
 *𝐃𝐨 𝐧𝐨𝐭 𝐟𝐨𝐫𝐠𝐞𝐭 𝐭𝐨 𝐟𝐨𝐥𝐥𝐨𝐰*
 
@@ -3033,7 +3033,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/kSs1stX/thumb.jpg',
+                                thumbnailUrl: 'https://files.catbox.moe/6xd4tr.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -3051,7 +3051,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+      thumbnailUrl: 'https://files.catbox.moe/emzgfh.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
