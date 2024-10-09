@@ -1,11 +1,11 @@
-<h1 align="center"> THE SPEED-MD MULTI DEVICE </h1>
+<h1 align="center"> THE MEGALODON_BUG_BOT MULTI DEVICE </h1>
 <p align="center">  
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SPEED-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DYBY+TRUE;RELEASED+24.9.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MEGALODON×BUG×BOT;MULTI+DEVICE+WHATSAPP+BUG+BOT;CREATED+BY+DYBY+TRUE" alt="Typing SVG" /></a>
   </p>
-    <img alt="MEGALODON_MD" width="700" height="300" src="https://files.catbox.moe/6xd4tr.jpg">
+    <img alt="MEGALODON_MD" width="700" height="300" src="https://files.catbox.moe/omm22g.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/DYBY-TRUE/MEGALODON_MD"><img title="Author" src="https://img.shields.io/badge/SPEED_MD-black?style=for-the-badge&logo=github"></a>
