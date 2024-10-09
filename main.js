@@ -172,15 +172,15 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
         	console.log(chalk.magenta(` `))
-            console.log(chalk.yellow(`☣️Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
+            console.log(chalk.blue(`🦈Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
-            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
+            console.log(chalk.bleu(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: xhclintohn`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: xhclintohn`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: PSYCHO_FF434`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: DYBY-TRUE`))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @mr.xh_clusive `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 254735342808`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: @xhclinton\n`))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 237620235226`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: @Dyby-Tech\n`))
         }
         if (
             connection === "close" &&
